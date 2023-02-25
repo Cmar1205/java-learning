@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+label {
+  font-weight: 700;
+}
+section {
+  margin: 48px 0;
+}
+button {
+  background-color: rebeccapurple;
+  color: white;
+  font-size: 1rem;
+  padding: 12px 24px;
+}
+input {
+  font-size: 1rem;
+  padding: 8px 12px;
+}
